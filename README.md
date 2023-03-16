@@ -5,12 +5,12 @@
 
 <!-- PROJECT LOGO -->
 <br />
+<h3 align="center">The full process of Data Recovery using Winhex Tool</h3>
 <p align="center">
 
 <img src="https://github.com/AsifAlif/Full-Process-Of-Data-Recovery-Using-Winhex-Tool/blob/main/Project%20Screenshot/Capture18.PNG" width="500" height="350">
 </p>
 
-  <h3 align="center">The full process of Data Recovery using Winhex Tool</h3>
 
   <p align="center">
    
